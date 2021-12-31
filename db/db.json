@@ -1,14 +1,19 @@
 {
-    "notes": [
-      {
-        "title": "Welcome to Note Taker!",
-        "text": "This application allows you to add and delete notes. You can add notes by clicking the pencil icon at the top and then click the save icon once you have entered what you need.",
-        "id": "0"
-      },
-      {
-        "title": "Deleting Notes",
-        "text": "You can delete notes by clicking the trash can next to the note you would like to delete.",
-        "id": "1"
-      }
-    ]
+  "notes": [
+    {
+      "title": "Welcome to The GOAT-Maker Note Taker!",
+      "text": "You can't be the GOAT with out good notes...",
+      "id": "0"
+    },
+    {
+      "title": "How it works",
+      "text": "This note taking app allows you to add and delete notes. Add notes by clicking the pencil icon to make a new note, then click the save icon when you're done.",
+      "id": "1"
+    },
+    {
+      "title": "Delete Notes",
+      "text": "Clicking the trash bin next to the note you want to delete.",
+      "id": "2"
+    }
+  ]
 }
