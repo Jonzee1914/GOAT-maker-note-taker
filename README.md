@@ -1,4 +1,4 @@
-# GOAT Maker Note Taker
+# GOAT-Maker Note Taker
 
 You can't be the GOAT with out a good note.
 
