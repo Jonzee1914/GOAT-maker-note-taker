@@ -19,7 +19,7 @@ Good notes prevent forgetting, this simple web app allows you to go from a forge
 
 ## Usage
 
-* navigate to https://goat-maker-note-taker.herokuapp.com/. 
+* navigate to https://goat-maker-note-taker.herokuapp.com/
 * On the landing page click "Get Started"
 * To create a new note click on "Note Title" to start a note by adding it's title 
 * Click "Note Text" to add the contents of your note
